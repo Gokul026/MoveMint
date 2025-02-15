@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "surprize.app"
-               BlueprintName = "surprize"
-               ReferencedContainer = "container:surprize.xcodeproj">
+               BuildableName = "MoveMint.app"
+               BlueprintName = "MoveMint"
+               ReferencedContainer = "container:MoveMint.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "surprizeTests.xctest"
-               BlueprintName = "surprizeTests"
-               ReferencedContainer = "container:surprize.xcodeproj">
+               BuildableName = "MoveMintTests.xctest"
+               BlueprintName = "MoveMintTests"
+               ReferencedContainer = "container:MoveMint.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "surprize.app"
-            BlueprintName = "surprize"
-            ReferencedContainer = "container:surprize.xcodeproj">
+            BuildableName = "MoveMint.app"
+            BlueprintName = "MoveMint"
+            ReferencedContainer = "container:MoveMint.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "surprize.app"
-            BlueprintName = "surprize"
-            ReferencedContainer = "container:surprize.xcodeproj">
+            BuildableName = "MoveMint.app"
+            BlueprintName = "MoveMint"
+            ReferencedContainer = "container:MoveMint.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

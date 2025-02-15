@@ -1,4 +1,4 @@
-package com.surprize
+package com.MoveMint
 
 import android.app.Application
 import com.facebook.react.PackageList
